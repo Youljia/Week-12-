@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\算法与数据结构\SheelSort\SheelSort\源.cpp(13,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SheelSort.vcxproj -> E:\算法与数据结构\SheelSort\x64\Debug\SheelSort.exe
